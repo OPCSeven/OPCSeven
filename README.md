@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo "SeVeN" Henrique</h1>
-<h3 align="center">Passionate about development Frankly... My dream has been to work as a DEV.</h3>
+<h3 align="center">Passionate about development. Frankly... My dream has been to work as a DEV.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=opcseven&label=Profile%20views&color=0e75b6&style=flat" alt="opcseven" /> </p>
 
